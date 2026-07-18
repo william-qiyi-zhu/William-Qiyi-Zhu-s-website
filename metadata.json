@@ -1,0 +1,6 @@
+{
+  "name": "William Chu Portfolio",
+  "description": "An elite, immersive single-page personal brand portfolio for William Chu — 11-year-old AI digital native, game creator, C++ explorer, and esports elite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
